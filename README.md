@@ -1,5 +1,5 @@
 # ToolsIG
-# ![Image](Instagram2016_white-(64px).png) Node.JS Instagram Tools
+# ! Node.JS Instagram Tools !
 
 
 Original author of this project is man who say himself as "CCOCOT".
@@ -13,7 +13,7 @@ And this is collection of several developments that have been carried out so far
 ```
 $ git clone https://github.com/ZheHacK/ToolsIG.git
 $ cd instagram-tools
-$ node index.js
+$ node run.js
 ```
 
 ----
