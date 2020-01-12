@@ -56,7 +56,7 @@ console.log(chalk`
    ╩ └─┘└─┘┴─┘└─┘   ---------     
 {bold.green
 Blog   : zhealhaqy.blogspot.com
-Github : github.com/ZheHacK
+Github : ZheHacK@github.com
 Insta  : instagram.com/zhe_alhaqy
 ___________________________________}
 }
