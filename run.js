@@ -51,13 +51,14 @@ const main = async () => {
 
 console.log(chalk`
   {red.yellow
-  ╔╦╗┌─┐┌─┐┬  ┌─┐    © 2019
+  ╔╦╗┌─┐┌─┐┬  ┌─┐    © 2020
    ║ │ ││ ││  └─┐   CyberZhe 
    ╩ └─┘└─┘┴─┘└─┘   ---------     
 {bold.green
 Blog   : zhealhaqy.blogspot.com
 Github : ZheHacK@github.com
 Insta  : instagram.com/zhe_alhaqy
+website: www.rojialhaqy.com
 ___________________________________}
 }
       `);
