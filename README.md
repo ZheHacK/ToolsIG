@@ -16,8 +16,8 @@ $ pkg install git
 $ pkg install nodejs
 $ pkg install unzip
 $ git clone https://github.com/ZheHacK/ToolsIG.git
-$ unzip node_modules.zip
 $ cd ToolsIG
+$ unzip node_modules.zip
 $ node run.js
 ```
 
