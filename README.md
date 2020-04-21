@@ -14,9 +14,9 @@ And this is collection of several developments that have been carried out so far
 $ pkg upgrade && pkg update
 $ pkg install git
 $ pkg install nodejs
-$ pkg unzip
+$ pkg install unzip
 $ git clone https://github.com/ZheHacK/ToolsIG.git
-$ unzip 
+$ unzip node_modules.zip
 $ cd ToolsIG
 $ node run.js
 ```
