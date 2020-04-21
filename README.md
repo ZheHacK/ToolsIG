@@ -12,7 +12,8 @@ And this is collection of several developments that have been carried out so far
 
 ```
 $ git clone https://github.com/ZheHacK/ToolsIG.git
-$ cd instagram-tools
+
+$ cd ToolsIG
 $ node run.js
 ```
 
