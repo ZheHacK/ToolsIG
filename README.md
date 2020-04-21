@@ -11,8 +11,10 @@ And this is collection of several developments that have been carried out so far
 ### Installation
 
 ```
+$ pkg upgrade && pkg update
+$ pkg install git
+$ pkg install nodejs
 $ git clone https://github.com/ZheHacK/ToolsIG.git
-
 $ cd ToolsIG
 $ node run.js
 ```
