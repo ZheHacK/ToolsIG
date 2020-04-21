@@ -55,10 +55,9 @@ console.log(chalk`
    ║ │ ││ ││  └─┐   CyberZhe 
    ╩ └─┘└─┘┴─┘└─┘   ---------     
 {bold.green
-
 Github : ZheHacK@github.com
 Insta  : instagram.com/zhe_alhaqy
-website: www.rojialhaqy.com
+Website: www.rojialhaqy.com
 ___________________________________}
 }
       `);
