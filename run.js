@@ -55,10 +55,7 @@ console.log(chalk`
   ____  __    __   __    ____  __  ___ 
 (_  _)/  \  /  \ (  )  / ___)(  )/ __)
   )( (  O )(  O )/ (_/\\___ \ )(( (_ \
- (__) \__/  \__/ \____/(____/(__)\___/
-                            © 2021
-                           ZH3H4CK 
-                          ---------     
+ (__) \__/  \__/ \____/(____/(__)\___/                           
 {bold.green
 Github : ZheHacK@github.com
 Insta  : instagram.com/zhe_alhaqy
