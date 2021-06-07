@@ -51,7 +51,6 @@ const main = async () => {
 
 console.log(chalk`
   {red.yellow
-
   ____  __    __   __    ____  __  ___ 
 (_  _)/  \  /  \ (  )  / ___)(  )/ __)
   )( (  O )(  O )/ (_/\\___ \ )(( (_ \
